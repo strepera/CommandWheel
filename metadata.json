@@ -1,0 +1,8 @@
+{
+  "name": "CommandWheel",
+  "creator": "snailify",
+  "description": "lets you have a wheel to run commands",
+  "version": "0.0.1",
+  "entry": "index.js",
+  "requires": ["KeybindFix"]
+}
